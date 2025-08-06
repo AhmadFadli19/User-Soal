@@ -230,7 +230,7 @@
                 <p class="text-sm text-gray-500">Daftar semua konten yang telah ditambahkan ke sistem</p>
             </div>
 
-
+{{-- 
             <div class="overflow-x-auto bg-white rounded-xl shadow border border-gray-200 p-8">
                 <table class="min-w-full divide-y divide-gray-200 text-sm">
                     <h1><b>Banner promosi awal website</b></h1>
@@ -462,7 +462,7 @@
                         @endforeach
                     </tbody>
                 </table>
-            </div>
+            </div> --}}
         </section>
 
     </main>
